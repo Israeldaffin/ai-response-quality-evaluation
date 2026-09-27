@@ -2,7 +2,6 @@
 
 A portfolio project demonstrating a structured approach to evaluating AI-generated responses for **accuracy, relevance, completeness, instruction-following, and clarity**.
 
-> **Important:** The included dataset is synthetic portfolio/demo data. It is not presented as proprietary client work or professional employment evidence.
 
 ## Project objective
 
